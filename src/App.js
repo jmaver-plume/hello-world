@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          I successfully deployed a page to GitHub Pages using GitHub Actions!
         </a>
       </header>
     </div>
